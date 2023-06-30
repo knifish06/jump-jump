@@ -10,4 +10,6 @@ Mở lại Unity Hub và đăng nhập vào bằng tài khoản Unity
 Giao diện sẽ hiện lên mục install Unity Editor nếu chưa cài Unity Editor --> Click vào "Install Unity Editor" --> Click "Agree and get personal edition license"
 Chờ đợi cài đặt xong là thành công bước 1
 Bước 2: Tải project game trên github về và giải nén
-vào link 
+vào link https://github.com/knifish06/t Chọn vào mục "Code" khoanh đỏ như hình dưới
+![Screenshot (200)](https://github.com/knifish06/t/assets/133773588/26ba52c5-5e4b-419e-9a38-a9b7a71b0203)
+Click vào "Download Zip" như hình dưới

@@ -22,3 +22,7 @@ Vào mục "Projects" --> Chọn "Open" --> Tìm đến nơi chứa thư mục �
 
 đợi một khoản thời gian cho Unity khởi động project
 sau khi khởi động xong thì làm theo các bước như hình bên dưới
+
+![Screenshot (201)](https://github.com/knifish06/t/assets/133773588/f93b3541-16ab-4503-8e13-6bd3e2ed03cc)
+vậy là game đã được khởi động 
+bấm " A " và " D " để di chuyển " space " để nhảy

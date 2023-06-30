@@ -14,4 +14,11 @@ vào link https://github.com/knifish06/t Chọn vào mục "Code" khoanh đỏ n
 ![Screenshot (200)](https://github.com/knifish06/t/assets/133773588/26ba52c5-5e4b-419e-9a38-a9b7a71b0203)
 Click vào "Download Zip" như hình dưới
 ![image](https://github.com/knifish06/t/assets/133773588/bd480a74-9616-414d-90a1-215ed8478ed7)
+Vào thư mục chứa file nén .zip đã download lên và giải nén
+Bước 3: Chạy chương trình
 
+Mở lại Unity Hub
+Vào mục "Projects" --> Chọn "Open" --> Tìm đến nơi chứa thư mục được giải lén ở bước 2 --> Double click vào thư mục "t-main" --> Chọn vào thư mục "game" --> Chọn "Open" và đợi Unity build các file cần thiết để sẵn sàng chạy Project và cho ra màn hình như thế này (Có thể mỗi máy sẽ có layout khác nhau nhưng vẫn đầy đủ các chức năng cần có)
+
+đợi một khoản thời gian cho Unity khởi động project
+sau khi khởi động xong thì làm theo các bước như hình bên dưới

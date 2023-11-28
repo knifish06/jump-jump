@@ -1,4 +1,4 @@
-# Thuc Tap Chuyen Mon
+# CONG NGHE PHAN MEM
 Các bước chạy chương trình
 
 Bước 1: Cài đặt Unity
